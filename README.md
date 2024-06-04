@@ -1,6 +1,7 @@
 # Aneurysm Detection and Segmentation: A Survey
 This repository lists the papers of automated and semi-automated intracranial aneurysm detection and segmentation published before April 2024.
 
+<img src="img/pipeline.png" style="width:700px;"/>
 
 ## Contents
 - [Survey Papers](#survey-papers)
