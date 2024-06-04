@@ -19,3 +19,18 @@ This repository lists the papers of automated and semi-automated intracranial an
 [[Paper]([https://arxiv.org/abs/2311.11383](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8075568))]
 
 ### 3D geometric data
+
+
+
+#### Surface mesh
+
+
+
+#### Point sets
+
+
+
+### Volumetric data
+
+
+### 2D images
