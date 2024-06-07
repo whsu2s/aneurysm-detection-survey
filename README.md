@@ -57,7 +57,7 @@ Annals of biomedical engineering (2004) \
 **Augmented vessels for quantitative analysis of vascular abnormalities and endovascular treatment planning** \
 *WCK Wong, ACS Chung* \
 IEEE transactions on medical imaging (2006) \
-[[Paper](https://www.mdpi.com/2227-9059/11/11/2921](https://ieeexplore.ieee.org/abstract/document/1637526/)]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/1637526/)]
 
 **An objective approach to digital removal of saccular aneurysms: technique and applications** \
 *MD Ford, Y Hoi, M Piccinelli, L Antiga, DA Steinman* \
