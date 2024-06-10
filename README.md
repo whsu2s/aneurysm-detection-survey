@@ -155,12 +155,42 @@ Medical Imaging 2022: Computer-Aided Diagnosis (2022) \
 [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12033/120332D/Deep-learning-with-vessel-surface-meshes-for-intracranial-aneurysm-detection/10.1117/12.2610745.short)]
 
 #### Point sets
-**** \
-** \
-() \
+**Surface-based 3D deep learning framework for segmentation of intracranial aneurysms from TOF-MRA images** \
+*X Yang, D Xia, T Kin, T Igarashi* \
+arXiv preprint (2020) \
+[[Paper](https://www.researchgate.net/profile/Ding-Xia-7/publication/342547925_Surface-based_3D_Deep_Learning_Framework_for_Segmentation_of_Intracranial_Aneurysms_from_TOF-MRA_Images/links/603c8b1f299bf1cc26fbdc93/Surface-based-3D-Deep-Learning-Framework-for-Segmentation-of-Intracranial-Aneurysms-from-TOF-MRA-Images.pdf)]
+
+**Vascular surface segmentation for intracranial aneurysm isolation and quantification** \
+*Ž Bizjak, B Likar, F Pernuš, Ž Špiclin* \
+Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd International Conference (2020) \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_13)]
+
+**3D medical point transformer: Introducing convolution to attention networks for medical point cloud analysis** \
+*J Yu, C Zhang, H Wang, D Zhang, Y Song, T Xiang, D Liu, and W Cai* \
+Introducing convolution to attention networks for medical point cloud analysis. arXiv preprint arXiv:2112.04863. 2021 Dec 9. (2021) \
+[[Paper](https://arxiv.org/abs/2112.04863)]
+
+**Modality agnostic intracranial aneurysm detection through supervised vascular surface classification** \
+*Ž Bizjak, B Likar, F Pernuš, Ž Špiclin* \
+Medical Imaging 2021: Computer-Aided Diagnosis (2021) \
+[[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11597/115970O/Modality-agnostic-intracranial-aneurysm-detection-through-supervised-vascular-surface-classification/10.1117/12.2580868.short)]
+
+**3D intracranial aneurysm classification and segmentation via unsupervised Dual-branch learning** \
+*D Shao, X Lu, X Liu* \
+ Journal of Biomedical and Health Informatics (2022) \
 [[Paper]()]
 
+**Deep learning based modality-independent intracranial aneurysm detection** \
+*Ž Bizjak, JH Choi, W Park, Ž Špiclin* \
+International Conference on Medical Image Computing and Computer-Assisted Intervention (2022) \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_73)]
 
+**A two-step surface-based 3D deep learning pipeline for segmentation of intracranial aneurysms** \
+*X Yang, D Xia, T Kin, T Igarashi* \
+Computational Visual Media 9.1 (2023) \
+[[Paper](https://link.springer.com/article/10.1007/s41095-022-0270-z)]
+
+-------
 ### Volumetric data
 **** \
 ** \
