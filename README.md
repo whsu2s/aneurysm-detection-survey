@@ -141,7 +141,7 @@ IEEE Transactions on Biomedical Engineering (2019) \
 
 **Intracranial aneurysm detection from 3D vascular mesh models with ensemble deep learning** \
 *M Zhou, X Wang, Z Wu, JM Pozo, AF Frangi* \
-Medical Image Computing and Computer Assisted Intervention–MICCAI 2019 (2019) \
+Medical Image Computing and Computer Assisted Intervention–MICCAI (2019) \
 [[Paper](https://doi.org/10.1007/978-3-030-32251-9_27)]
 
 **MedmeshCNN-Enabling meshcnn for medical surface models** \
@@ -177,7 +177,7 @@ Medical Imaging 2021: Computer-Aided Diagnosis (2021) \
 
 **3D intracranial aneurysm classification and segmentation via unsupervised dual-branch learning** \
 *D Shao, X Lu, X Liu* \
- Journal of Biomedical and Health Informatics (2022) \
+Journal of Biomedical and Health Informatics (2022) \
 [[Paper](https://doi.org/10.1109/JBHI.2022.3180326)]
 
 **Deep learning based modality-independent intracranial aneurysm detection** \
@@ -212,10 +212,100 @@ Bildverarbeitung für die Medizin (2005) \
 Bildverarbeitung für die Medizin (2007) \
 [[Paper](https://doi.org/10.1007/978-3-540-71091-2_59)]
 
+**Three-dimensional semi-automatic segmentation of intracranial aneurysms in CTA** \
+*A Nikravanshalmani, SD Qanadli, TJ Ellis, M Crocker, Y Ebrahimdoost, M Karamimohammadi* \
+Proceedings of the 10th IEEE International Conference on Information Technology and Applications in Biomedicine (2010) \
+[[Paper](https://doi.org/10.1109/ITAB.2010.5687759)]
+
 **Automatic aneurysm neck detection using surface Voronoi diagrams** \
 *R Cárdenes, JM Pozo, H Bogunovic, I Larrabide, AF Frangi* \
 IEEE transactions on medical imaging (2011) \
 [[Paper](https://doi.org/10.1109/TMI.2011.2157698)]
+
+**Segmentation and separation of cerebral aneurysms: a multi-phase approach** \
+*A Nikravanshalmani, M Karamimohammdi, J Dehmeshki* \
+2013 8th International Symposium on Image and Signal Processing and Analysis (ISPA) (2013) \
+[[Paper](https://doi.org/10.1109/ISPA.2013.6703793)]
+
+**Segmentation of the thrombus of giant intracranial aneurysms from CT angiography scans with lattice Boltzmann method** \
+*Y Chen, L Navarro, Y Wang, G Courbebaisse* \
+Medical image analysis (2014) \
+[[Paper](https://doi.org/10.1016/j.media.2013.08.003)]
+
+**Computer-aided detection and quantification of intracranial aneurysms** \
+*T Jerman, F Pernuš, B Likar, Ž Špiclin* \
+Medical Image Computing and Computer-Assisted Intervention--MICCAI (2015) \
+[[Paper](https://doi.org/10.1007/978-3-319-24571-3_1)]
+
+**Deep learning–assisted diagnosis of cerebral aneurysms using the HeadXNet model** \
+*A Park, C Chute, P Rajpurkar, J Lou, RL Ball, et al.* \
+JAMA network open 2.6 (2016) \
+[[Paper](https://dx.doi.org/10.1001/jamanetworkopen.2019.5600)]
+
+**Aneurysm detection in 3D cerebral angiograms based on intra-vascular distance mapping and convolutional neural networks** \
+*T Jerman, F Pernus, B Likar, Ž Špiclin* \
+IEEE 14th international symposium on biomedical imaging (2017) \
+[[Paper](https://doi.org/10.1109/ISBI.2017.7950595)]
+
+**Automatic detection of intracranial aneurysms in 3D-DSA based on a Bayesian optimized filter** \
+*T Hu, H Yang, W Ni, Y Lei, Z Jiang, K Shi, J Yu, Y Gu, Y Wang* \
+BioMedical Engineering OnLine (2020) \
+[[Paper](https://doi.org/10.1186/s12938-020-00817-9)]
+
+**Deep learning-based 3D U-Net cerebral aneurysm detection** \
+*M Ivantsits, JM Kuhnigk, M Huellebrand, T Kuehne, A Hennemuth* \
+Cerebral Aneurysm Detection and Analysis: First Challenge, CADA 2020, Held in Conjunction with MICCAI 2020 (2020) \
+[[Paper](https://doi.org/10.1007/978-3-030-72862-5_3)]
+
+**Detect and identify aneurysms based on adjusted 3D attention UNet** \
+*Y Jia, W Liao, Y Lv, Z Su, J Dou, Z Sun, X Li* \
+Cerebral Aneurysm Detection and Analysis: First Challenge, CADA 2020, Held in Conjunction with MICCAI 2020 (2020) \
+[[Paper](https://doi.org/10.1007/978-3-030-72862-5_4)]
+
+**Aν-Net: automatic detection and segmentation of aneurysm** \
+*S Shit, I Ezhov, JC Paetzold, B Menze* \
+Cerebral Aneurysm Detection and Analysis: First Challenge, CADA 2020, Held in Conjunction with MICCAI 2020 (2020) \
+[[Paper](https://doi.org/10.1007/978-3-030-72862-5_5)]
+
+**3D attention U-net with pretraining: A solution to CADA-aneurysm segmentation challenge** \
+*Z Su, Y Jia, W Liao, Y Lv, J Dou, Z Sun, X Li* \
+Cerebral Aneurysm Detection and Analysis: First Challenge, CADA 2020, Held in Conjunction with MICCAI 2020 (2020) \
+[[Paper](https://doi.org/10.1007/978-3-030-72862-5_6)]
+
+**Exploring large context for cerebral aneurysm segmentation** \
+*J Ma, Z Nie* \
+Cerebral Aneurysm Detection and Analysis: First Challenge, CADA 2020, Held in Conjunction with MICCAI 2020 (2020) \
+[[Paper](https://doi.org/10.1007/978-3-030-72862-5_7)]
+
+**Fully automated detection and segmentation of intracranial aneurysms in subarachnoid hemorrhage on CTA using deep learning** \
+*R Shahzad, L Pennig, L Goertz, F Thiele, C Kabbasch, M Schlamann, B Krischek, D Maintz, M Perkuhn & J Borggrefe* \
+Nature Scientific Reports (2020) \
+[[Paper](https://doi.org/10.1038/s41598-020-78384-1)]
+
+**Deep neural network-based detection and segmentation of intracranial aneurysms on 3D rotational DSA** \
+*X Liu, J Feng, Z Wu, Z Neo, C Zhu, P Zhang, Y Wang, Y Jiang, D Mitsouras, Y Li* \
+Interventional Neuroradiology (2021) \
+[[Paper](https://doi.org/10.1177/15910199211000956)]
+
+**Segmentation method of cerebral aneurysms based on entropy selection strategy** \
+*T Li, X An, Y Di, J He, S Liu, D Ming* \
+MDPI Entropy (2022) \
+[[Paper](https://doi.org/10.3390/e24081062)]
+
+**High-throughput 3dra segmentation of brain vasculature and aneurysms using deep learning** \
+*F Lin, Y Xia, S Song, N Ravikumar, AF Frangi* \
+Computer Methods and Programs in Biomedicine (2023) \
+[[Paper](https://doi.org/10.1016/j.cmpb.2023.107355)]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
 
 **** \
 ** \
