@@ -360,7 +360,7 @@ Computer Methods and Programs in Biomedicine (2023) \
 [[Paper](https://doi.org/10.1016/j.cmpb.2023.107355)]
 
 **A deep-learning model for intracranial aneurysm detection on CT angiography images in China: a stepwise, multicentre, early-stage clinical validation study** \
-*B Hu, Z Shi, L Lu, Z Miao, H Wang, Z Zhou, F Zhang, R Wang, X Luo, F Xu, S Li, X Fang, * \
+*B Hu, Z Shi, L Lu, Z Miao, H Wang, Z Zhou, F Zhang, R Wang, X Luo, F Xu, S Li, X Fang, et al.* \
 The Lancet Digital Health (2024) \
 [[Paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00268-6/fulltext)]
 [[Code](https://github.com/deepwise-code/CAIA)]
