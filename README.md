@@ -242,6 +242,16 @@ Proceedings of the 10th IEEE International Conference on Information Technology 
 IEEE transactions on medical imaging (2011) \
 [[Paper](https://doi.org/10.1109/TMI.2011.2157698)]
 
+**Computer-aided detection of intracranial aneurysms in MR angiography** \
+*X Yang, DJ Blezek, LTE Cheng, WJ Ryan, DF Kallmes, BJ Erickson* \
+Journal of digital imaging (2011) \
+[[Paper](https://doi.org/10.1007/s10278-009-9254-0)]
+
+**Computer-aided detection of aneurysms in 3D time-of-flight MRA datasets** \
+*S Suniaga, R Werner, A Kemmling, M Groth, J Fiehler, ND Forkert* \
+Machine Learning in Medical Imaging: Third International Workshop, MLMI (2012) \
+[[Paper](https://doi.org/10.1007/978-3-642-35428-1_8)]
+
 **Segmentation and separation of cerebral aneurysms: a multi-phase approach** \
 *A Nikravanshalmani, M Karamimohammdi, J Dehmeshki* \
 2013 8th International Symposium on Image and Signal Processing and Analysis (ISPA) (2013) \
@@ -369,16 +379,6 @@ The Lancet Digital Health (2024) \
 *W Cao, X Chen, J Lv, L Shao, W Si* \
 The Visual Computer (2024) \
 [[Paper](https://doi.org/10.1007/s00371-024-03730-7)]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
 
 **** \
 ** \
