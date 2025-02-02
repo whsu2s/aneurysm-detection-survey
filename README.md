@@ -202,10 +202,30 @@ Proceedings des Workshops (2003) \
 American journal of neuroradiology (2004) \
 [[Paper](https://www.ajnr.org/content/25/7/1158.short)]
 
+**Automated computerized scheme for detection of unruptured intracranial aneurysms in three-dimensional magnetic resonance angiography** \
+*H Arimura, Q Li, Y Korogi, T Hirai, H Abe, Y Yamashita, S Katsuragawa, R Ikeda, Kunio Doi* \
+Academic radiology (2004) \
+[[Paper](https://doi.org/10.1016/j.acra.2004.07.011)]
+
 **Local distance thresholds for enhanced aneurysm labelling** \
 *J Bruijns* \
 Bildverarbeitung für die Medizin (2005) \
 [[Paper](https://doi.org/10.1007/3-540-26431-0_31)]
+
+**Computer-aided diagnosis of intracranial aneurysms in MRA images with case-based reasoning** \
+*S Kobashi, K Kondo, Y Hata* \
+IEICE TRANSACTIONS on Information and Systems (2006) \
+[[Paper](https://doi.org/10.1093/ietisy/e89-d.1.340)]
+
+**Computer-aided diagnosis scheme for detection of unruptured intracranial aneurysms in MR angiography** \
+*Y Uchiyama, H Ando, R Yokoyama, T Hara, H Fujita, T Iwama* \
+IEEE engineering in medicine and biology 27th annual conference (2006) \
+[[Paper](https://doi.org/10.1109/IEMBS.2005.1617113)]
+
+**Computerized detection of intracranial aneurysms for three‐dimensional MR angiography: Feature extraction of small protrusions based on a shape‐based difference image technique** \
+*H Arimura, Q Li, Y Korogi, T Hirai, S Katsuragawa, Y Yamashita, K Tsuchiya, K Doi* \
+Medical physics (2006) \
+[[Paper](https://doi.org/10.1118/1.2163389)]
 
 **Fully-automatic correction of the erroneous border areas of an aneurysm** \
 *J Bruijns, FJ Peters, RPM Berretty, B Barenbrug* \
@@ -282,30 +302,73 @@ Cerebral Aneurysm Detection and Analysis: First Challenge, CADA 2020, Held in Co
 Nature Scientific Reports (2020) \
 [[Paper](https://doi.org/10.1038/s41598-020-78384-1)]
 
+**A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images** \
+*Z Shi, C Miao, UJ Schoepf, RH Savage, DM Dargis, C Pan, X Chai, XL Li, S Xia, X Zhang, et al.* \
+Nature communications (2020) \
+[[Paper](https://doi.org/10.1038/s41467-020-19527-w)]
+
+**Toward human intervention-free clinical diagnosis of intracranial aneurysm via deep neural network** \
+*ZH Bo, H Qiao, C Tian, Y Guo, W Li, T Liang, D Li, et al.* \
+Patterns 2.2 (2021) \
+[[Paper](https://www.cell.com/patterns/fulltext/S2666-3899(20)30267-1)]
+[[Code](https://github.com/MeteorsHub/GLIA-Net)]
+
+**Deep learning for detecting cerebral aneurysms with CT angiography** \
+*J Yang, M Xie, C Hu, O Alwalid, Y Xu, J Liu, T Jin, C Li, D Tu, X Liu, C Zhang, C Li, X Long* \
+Radiology (2021) \
+[[Paper](https://doi.org/10.1148/radiol.2020192154)]
+[[Code](https://github.com/CTA-detection/DLCA)]
+
 **Deep neural network-based detection and segmentation of intracranial aneurysms on 3D rotational DSA** \
 *X Liu, J Feng, Z Wu, Z Neo, C Zhu, P Zhang, Y Wang, Y Jiang, D Mitsouras, Y Li* \
 Interventional Neuroradiology (2021) \
 [[Paper](https://doi.org/10.1177/15910199211000956)]
+
+**Enriching computed tomography images by projection for robust automated cerebral aneurysm detection and segmentation** \
+*R Ma, S Tu, P Li, J Zhou, B Zhao, J Wan, L Xu* \
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (2021) \
+[[Paper](https://doi.org/10.1109/BIBM52615.2021.9669853)]
+
+**Cerebral aneurysm image segmentation based on multi-modal convolutional neural network** \
+*C Meng, D Yang, D Chen* \
+Computer Methods and Programs in Biomedicine (2021) \
+[[Paper](https://doi.org/10.1016/j.cmpb.2021.106285)]
+
+**Deep learning-based recognition and segmentation of intracranial aneurysms under small sample size** \
+*G Zhu, X Luo, T Yang, L Cai, JH Yeo, G Yan, J Yang* \
+Frontiers in Physiology (2022) \
+[[Paper](https://doi.org/10.3389/fphys.2022.1084202)]
+
+**Evaluation of an automated intracranial aneurysm detection and rupture analysis approach using cascade detection and classification networks** \
+*K Wu, D Gu, P Qi, X Cao, D Wu, L Chen, G Qu, J Wang, X Pan, X Wang, Y Chen, L Chen, Z Xue, J Lyu* \
+Computerized Medical Imaging and Graphics 102 (2022) \
+[[Paper](https://doi.org/10.1016/j.compmedimag.2022.102126)]
 
 **Segmentation method of cerebral aneurysms based on entropy selection strategy** \
 *T Li, X An, Y Di, J He, S Liu, D Ming* \
 MDPI Entropy (2022) \
 [[Paper](https://doi.org/10.3390/e24081062)]
 
+**Detection of intracranial aneurysms using multiphase CT angiography with a deep learning model** \
+*J Wang, J Sun, J Xu, S Lu, H Wang, C Huang, F Zhang, Y Yu, X Gao, M Wang, Y Wang, X Ruan, Y Pan* \
+Academic Radiology 30.11 (2023) \
+[[Paper](https://doi.org/10.1016/j.acra.2022.12.043)]
+
 **High-throughput 3dra segmentation of brain vasculature and aneurysms using deep learning** \
 *F Lin, Y Xia, S Song, N Ravikumar, AF Frangi* \
 Computer Methods and Programs in Biomedicine (2023) \
 [[Paper](https://doi.org/10.1016/j.cmpb.2023.107355)]
 
-**** \
-** \
-() \
-[[Paper]()]
+**A deep-learning model for intracranial aneurysm detection on CT angiography images in China: a stepwise, multicentre, early-stage clinical validation study** \
+*B Hu, Z Shi, L Lu, Z Miao, H Wang, Z Zhou, F Zhang, R Wang, X Luo, F Xu, S Li, X Fang, * \
+The Lancet Digital Health (2024) \
+[[Paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00268-6/fulltext)]
+[[Code](https://github.com/deepwise-code/CAIA)]
 
-**** \
-** \
-() \
-[[Paper]()]
+**Semi-supervised intracranial aneurysm segmentation via reliable weight selection** \
+*W Cao, X Chen, J Lv, L Shao, W Si* \
+The Visual Computer (2024) \
+[[Paper](https://doi.org/10.1007/s00371-024-03730-7)]
 
 **** \
 ** \
