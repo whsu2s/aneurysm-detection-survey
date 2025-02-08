@@ -262,10 +262,25 @@ Machine Learning in Medical Imaging: Third International Workshop, MLMI (2012) \
 Medical image analysis (2014) \
 [[Paper](https://doi.org/10.1016/j.media.2013.08.003)]
 
+**Performance improvement in computerized detection of cerebral aneurysms by retraining classifier using feedback data collected in routine reading environment** \
+*Y Nomura, Y Masutani, S Miki, M Nemoto, S Hanaoka, T Yoshikawa, N Hayashi, K Ohtomo* \
+Journal of Biomedical Graphics and Computing (2014) \
+[[Paper](https://doi.org/10.5430/jbgc.v4n4p12)]
+
+**HoTPiG: a novel geometrical feature for vessel morphometry and its application to cerebral aneurysm detection** \
+*S Hanaoka, Y Nomura, M Nemoto, S Miki, T Yoshikawa, N Hayashi, K Ohtomo, Y Masutani, A Shimizu * \
+Medical Image Computing and Computer-Assisted Intervention--MICCAI (2015) \
+[[Paper](https://doi.org/10.1007/978-3-319-24571-3_13)]
+
 **Computer-aided detection and quantification of intracranial aneurysms** \
 *T Jerman, F Pernuš, B Likar, Ž Špiclin* \
 Medical Image Computing and Computer-Assisted Intervention--MICCAI (2015) \
 [[Paper](https://doi.org/10.1007/978-3-319-24571-3_1)]
+
+**An ellipsoid convex enhancement filter for detection of asymptomatic intracranial aneurysm candidates in CAD frameworks** \
+*Z Jin, H Arimura, S Kakeda, F Yamashita, M Sasaki, Y Korogi* \
+Medical physics (2016) \
+[[Paper](https://doi.org/10.1118/1.4940349)]
 
 **Deep learning–assisted diagnosis of cerebral aneurysms using the HeadXNet model** \
 *A Park, C Chute, P Rajpurkar, J Lou, RL Ball, et al.* \
@@ -276,6 +291,21 @@ JAMA network open 2.6 (2016) \
 *T Jerman, F Pernus, B Likar, Ž Špiclin* \
 IEEE 14th international symposium on biomedical imaging (2017) \
 [[Paper](https://doi.org/10.1109/ISBI.2017.7950595)]
+
+**Deep neural network‐based computer‐assisted detection of cerebral aneurysms in MR angiography** \
+*T Nakao, S Hanaoka, Y Nomura, I Sato, M Nemoto, S Miki, E Maeda, T Yoshikawa, N Hayashi, O Abe* \
+Journal of Magnetic Resonance Imaging (2018) \
+[[Paper](https://doi.org/10.1002/jmri.25842)]
+
+**Deep learning–based detection of intracranial aneurysms in 3D TOF-MRA** \
+*T Sichtermann, A Faron, R Sijben, N Teichert, J Freiherr, M Wiesmann* \
+American Journal of Neuroradiology (2019) \
+[[Paper](https://doi.org/10.3174/ajnr.A5911)]
+
+**Deep learning for MR angiography: automated detection of cerebral aneurysms** \
+*D Ueda, A Yamamoto, M Nishimori, T Shimono, S Doishita, A Shimazaki, Y Katayama, S Fukumoto, A Choppin, Y Shimahara, Y Miki* \
+Radiology (2019) \
+[[Paper](https://doi.org/10.1148/radiol.2018180901)]
 
 **Automatic detection of intracranial aneurysms in 3D-DSA based on a Bayesian optimized filter** \
 *T Hu, H Yang, W Ni, Y Lei, Z Jiang, K Shi, J Yu, Y Gu, Y Wang* \
@@ -379,6 +409,31 @@ The Lancet Digital Health (2024) \
 *W Cao, X Chen, J Lv, L Shao, W Si* \
 The Visual Computer (2024) \
 [[Paper](https://doi.org/10.1007/s00371-024-03730-7)]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
 
 **** \
 ** \
