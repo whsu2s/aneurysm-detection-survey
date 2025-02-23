@@ -169,7 +169,7 @@ Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd I
 *J Yu, C Zhang, H Wang, D Zhang, Y Song, T Xiang, D Liu, and W Cai* \
 arXiv preprint arXiv:2112.04863. 2021 Dec 9. (2021) \
 [[Paper](https://doi.org/10.48550/arXiv.2112.04863)]
-[[COde](https://github.com/crane-papercode/3DMedPT)]
+[[Code](https://github.com/crane-papercode/3DMedPT)]
 
 **Modality agnostic intracranial aneurysm detection through supervised vascular surface classification** \
 *Ž Bizjak, B Likar, F Pernuš, Ž Špiclin* \
