@@ -262,6 +262,11 @@ International Conference on Computer Analysis of Images and Patterns (2011) \
 Journal of digital imaging (2011) \
 [[Paper](https://doi.org/10.1007/s10278-009-9254-0)]
 
+**A new feature for automatic aneurysm detection** \
+*CM Hentschke, KD Tönnies, O Beuing, R Nickl* \
+IEEE International Symposium on Biomedical Imaging (ISBI) (2012) \
+[[Paper](https://doi.org/10.1109/ISBI.2012.6235669)]
+
 **Computer-aided detection of aneurysms in 3D time-of-flight MRA datasets** \
 *S Suniaga, R Werner, A Kemmling, M Groth, J Fiehler, ND Forkert* \
 Machine Learning in Medical Imaging: Third International Workshop, MLMI (2012) \
@@ -272,25 +277,35 @@ Machine Learning in Medical Imaging: Third International Workshop, MLMI (2012) \
 2013 8th International Symposium on Image and Signal Processing and Analysis (ISPA) (2013) \
 [[Paper](https://doi.org/10.1109/ISPA.2013.6703793)]
 
-**Segmentation of the thrombus of giant intracranial aneurysms from CT angiography scans with lattice Boltzmann method** \
-*Y Chen, L Navarro, Y Wang, G Courbebaisse* \
-Medical image analysis (2014) \
-[[Paper](https://doi.org/10.1016/j.media.2013.08.003)]
+**A system to detect cerebral aneurysms in multimodality angiographic data sets** \
+*CM Hentschke, O Beuing, H Paukisch, C Scherlach, M Skalej, KD Tönnies* \
+Medical physics (2014) \
+[[Paper](https://doi.org/10.1118/1.4890775)]
 
 **Performance improvement in computerized detection of cerebral aneurysms by retraining classifier using feedback data collected in routine reading environment** \
 *Y Nomura, Y Masutani, S Miki, M Nemoto, S Hanaoka, T Yoshikawa, N Hayashi, K Ohtomo* \
 Journal of Biomedical Graphics and Computing (2014) \
 [[Paper](https://doi.org/10.5430/jbgc.v4n4p12)]
 
-**HoTPiG: a novel geometrical feature for vessel morphometry and its application to cerebral aneurysm detection** \
-*S Hanaoka, Y Nomura, M Nemoto, S Miki, T Yoshikawa, N Hayashi, K Ohtomo, Y Masutani, A Shimizu * \
-Medical Image Computing and Computer-Assisted Intervention--MICCAI (2015) \
-[[Paper](https://doi.org/10.1007/978-3-319-24571-3_13)]
+**Segmentation of the thrombus of giant intracranial aneurysms from CT angiography scans with lattice Boltzmann method** \
+*Y Chen, L Navarro, Y Wang, G Courbebaisse* \
+Medical image analysis (2014) \
+[[Paper](https://doi.org/10.1016/j.media.2013.08.003)]
+
+**Blob enhancement and visualization for improved intracranial aneurysm detection** \
+*T Jerman, F Pernuš, B Likar, Ž Špiclin* \
+IEEE Transactions on Visualization and Computer Graphics (2015) \
+[[Paper](https://doi.org/10.1109/TVCG.2015.2446493)]
 
 **Computer-aided detection and quantification of intracranial aneurysms** \
 *T Jerman, F Pernuš, B Likar, Ž Špiclin* \
 Medical Image Computing and Computer-Assisted Intervention--MICCAI (2015) \
 [[Paper](https://doi.org/10.1007/978-3-319-24571-3_1)]
+
+**HoTPiG: a novel geometrical feature for vessel morphometry and its application to cerebral aneurysm detection** \
+*S Hanaoka, Y Nomura, M Nemoto, S Miki, T Yoshikawa, N Hayashi, K Ohtomo, Y Masutani, A Shimizu * \
+Medical Image Computing and Computer-Assisted Intervention--MICCAI (2015) \
+[[Paper](https://doi.org/10.1007/978-3-319-24571-3_13)]
 
 **An ellipsoid convex enhancement filter for detection of asymptomatic intracranial aneurysm candidates in CAD frameworks** \
 *Z Jin, H Arimura, S Kakeda, F Yamashita, M Sasaki, Y Korogi* \
@@ -495,9 +510,123 @@ The Lancet Digital Health (2024) \
 The Visual Computer (2024) \
 [[Paper](https://doi.org/10.1007/s00371-024-03730-7)]
 
-
-
 ### 2D images
+**Detection of cerebral aneurysms by using time based parametric color coded of cerebral angiogram** \
+*H Zakaria, A Kurniawan, TLR Mengko, OS Santoso* \
+Proceedings of the 2011 International Conference on Electrical Engineering and Informatics (2011) \
+[[Paper](https://doi.org/10.1109/ICEEI.2011.6021503)]
+
+**Detection of cerebral aneurysm by performing thresholding-spatial filtering-thresholding operations on digital subtraction angiogram** \
+*J Mitra, A Chandra* \
+Proceedings of the Second International Conference on Advances in Computing and Information Technology (ACITY) (2013) \
+[[Paper](https://doi.org/10.1007/978-3-642-31552-7_93)]
+
+**Peak trekking of hierarchy mountain for the detection of cerebral aneurysm using modified Hough circle transform** \
+*J Mitra, A Chandra, T Halder* \
+ELCVIA Electronic Letters on Computer Vision and Image Analysis (2013) \
+[[Paper](https://doi.org/10.5565/rev/elcvia.529)]
+[[Code](https://github.com/jm61288/aneurysm_detection)]
+
+**Detection of intracranial aneurysm in angiographic images using fuzzy approaches** \
+*I Rahmany, N Khlifa* \
+International Image Processing, Applications and Systems Conference (2014) \
+[[Paper](https://doi.org/10.1109/IPAS.2014.7043312)]
+
+**One novel algorithm for the detection of Cerebral Aneurysm using morphological filtering** \
+*S Mondal, A Chandra* \
+International Conference on Communication and Signal Processing (2014) \
+[[Paper](https://doi.org/10.1109/ICCSP.2014.6949815)]
+
+**Semi-automatic detection and segmentation algorithm of saccular aneurysms in 2D cerebral DSA images** \
+*N Sulayman, M Al-Mawaldi, Q Kanafani* \
+The Egyptian Journal of Radiology and Nuclear Medicine (2016) \
+[[Paper](https://doi.org/10.1016/j.ejrnm.2016.03.016)]
+
+**Amalgamation of iterative double automated thresholding and morphological filtering: a new proposition in the early detection of cerebral aneurysm** \
+*A Chandra, S Mondal* \
+Multimedia Tools and Applications (2017) \
+[[Paper](https://doi.org/10.1007/s11042-016-4149-9)]
+
+**A framework for intracranial saccular aneurysm detection and quantification using morphological analysis of cerebral angiograms** \
+*KM Malik, SM Anjum, H Soltanian-Zadeh, H Malik, GM Malik* \
+IEEE Access (2018) \
+[[Paper](https://doi.org/10.1109/ACCESS.2018.2799307)]
+
+**A fully automatic based deep learning approach for aneurysm detection in DSA images** \
+*I Rahmany, R Guetari, N Khlifa* \
+2018 IEEE international conference on image processing, applications and systems (IPAS) (2018) \
+[[Paper](https://doi.org/10.1109/IPAS.2018.8708897)]
+
+**A priori knowledge integration for the detection of cerebral aneurysm** \
+*I Rahmany, N Khlifa* \
+Biomedical Engineering/Biomedizinische Technik (2018) \
+[[Paper](https://doi.org/10.1515/bmt-2016-0168)]
+
+**Cerebral aneurysm computer-aided detection system by combing MSER, SURF and SIFT descriptors** \
+*I Rahmany, B Arfaoui, N Khlifa, H Megdiche* \
+2018 5th international conference on control, decision and information technologies (CoDIT) (2018) \
+[[Paper](https://doi.org/10.1109/CoDIT.2018.8394937)]
+
+**Automatic detection of intracranial aneurysm using LBP and Fourier descriptor in angiographic images** \
+*I Rahmany, MEA Nemmala, N Khlifa, H Megdiche* \
+International journal of computer assisted radiology and surgery (2019) \
+[[Paper](https://doi.org/10.1007/s11548-019-01996-0)]
+
+**Automatic detection on intracranial aneurysm from digital subtraction angiography with cascade convolutional neural networks** \
+*H Duan, Y Huang, L Liu, H Dai, L Chen, L Zhou* \
+Biomedical engineering online (2019) \
+[[Paper](https://doi.org/10.1186/s12938-019-0726-2)]
+
+**Automatic radiomic feature extraction using deep learning for angiographic parametric imaging of intracranial aneurysms** \
+*AR Podgorsak, RA Rava, MMS Bhurwani, AR Chandra, JM Davies, AH Siddiqui, CN Ionita* \
+Journal of neurointerventional surgery (2020) \
+[[Paper](https://doi.org/10.1136/neurintsurg-2019-015214)]
+
+**Deep learning based detection of intracranial aneurysms on digital subtraction angiography: a feasibility study** \
+*N Hainc, M Mannil, V Anagnostakou, H Alkadhi, C Blüthgen, L Wacht, A Bink, S Husain, Z Kulcsár, S Winklhofer* \
+The neuroradiology journal (2020) \
+[[Paper](https://doi.org/10.1177/1971400920937647)]
+
+**Deep learning for automated cerebral aneurysm detection on computed tomography images** \
+*X Dai, L Huang, Y Qian, S Xia, W Chong, J Liu, A Di Ieva, X Hou, C Ou* \
+International Journal of Computer Assisted Radiology and Surgery (2020) \
+[[Paper](https://doi.org/10.1007/s11548-020-02121-2)]
+
+**A diagnostic system for intracranial saccular and fusiform aneurysms with location detection** \
+*Y Zafar, A Javed, KM Malik, J Santamaria, G Malik* \
+2021 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2021) \
+[[Paper](https://doi.org/10.1109/BHI50953.2021.9508536)]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
+
+**** \
+** \
+() \
+[[Paper]()]
+
 **** \
 ** \
 () \
