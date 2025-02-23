@@ -169,6 +169,7 @@ Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd I
 *J Yu, C Zhang, H Wang, D Zhang, Y Song, T Xiang, D Liu, and W Cai* \
 arXiv preprint arXiv:2112.04863. 2021 Dec 9. (2021) \
 [[Paper](https://doi.org/10.48550/arXiv.2112.04863)]
+[[COde](https://github.com/crane-papercode/3DMedPT)]
 
 **Modality agnostic intracranial aneurysm detection through supervised vascular surface classification** \
 *Ž Bizjak, B Likar, F Pernuš, Ž Špiclin* \
@@ -296,6 +297,7 @@ Medical image analysis (2014) \
 *T Jerman, F Pernuš, B Likar, Ž Špiclin* \
 IEEE Transactions on Visualization and Computer Graphics (2015) \
 [[Paper](https://doi.org/10.1109/TVCG.2015.2446493)]
+[[Code](https://github.com/timjerman/JermanEnhancementFilter)]
 
 **Computer-aided detection and quantification of intracranial aneurysms** \
 *T Jerman, F Pernuš, B Likar, Ž Špiclin* \
@@ -473,6 +475,7 @@ MDPI Entropy (2022) \
 *Y Assis, L Liao, F Pierre, R Anxionnat, E Kerrien* \
 Medical Image Computing and Computer Assisted Intervention – MICCAI (2023) \
 [[Paper](https://doi.org/10.1007/978-3-031-43895-0_51)]
+[[Code](https://gitlab.inria.fr/yassis/DeepAnePose)]
 
 **Automated detection of intracranial aneurysms using skeleton-based 3D patches, semantic segmentation, and auxiliary classification for overcoming data imbalance in brain TOF-MRA** \
 *S Ham, J Seo, J Yun, YJ Bae, T Kim, L Sunwoo, S Yoo, SC Jung, JW Kim, N Kim* \
@@ -498,6 +501,7 @@ Computer Methods and Programs in Biomedicine (2023) \
 *T Di Noto, G Marie, S Tourbier, Y Alemán-Gómez, O Esteban, G Saliou, MB Cuadra, P Hagmann, J Richiardi* \
 Neuroinformatics (2023) \
 [[Paper](https://doi.org/10.1007/s12021-022-09597-0)]
+[[Code](https://github.com/connectomicslab/Aneurysm_Detection)]
 
 **A deep-learning model for intracranial aneurysm detection on CT angiography images in China: a stepwise, multicentre, early-stage clinical validation study** \
 *B Hu, Z Shi, L Lu, Z Miao, H Wang, Z Zhou, F Zhang, R Wang, X Luo, F Xu, S Li, X Fang, et al.* \
@@ -509,6 +513,7 @@ The Lancet Digital Health (2024) \
 *W Cao, X Chen, J Lv, L Shao, W Si* \
 The Visual Computer (2024) \
 [[Paper](https://doi.org/10.1007/s00371-024-03730-7)]
+[[Code](https://github.com/jinxiaokuang/RWS-MT)]
 
 ### 2D images
 **Detection of cerebral aneurysms by using time based parametric color coded of cerebral angiogram** \
