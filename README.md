@@ -232,6 +232,11 @@ Medical physics (2006) \
 Bildverarbeitung für die Medizin (2007) \
 [[Paper](https://doi.org/10.1007/978-3-540-71091-2_59)]
 
+**Automated detection of intracranial aneurysms based on parent vessel 3D analysis** \
+*A Lauric, E Miller, S Frisken, AM Malek* \
+Medical image analysis (2010) \
+[[Paper](https://doi.org/10.1016/j.media.2009.10.005)]
+
 **Three-dimensional semi-automatic segmentation of intracranial aneurysms in CTA** \
 *A Nikravanshalmani, SD Qanadli, TJ Ellis, M Crocker, Y Ebrahimdoost, M Karamimohammadi* \
 Proceedings of the 10th IEEE International Conference on Information Technology and Applications in Biomedicine (2010) \
@@ -241,6 +246,16 @@ Proceedings of the 10th IEEE International Conference on Information Technology 
 *R Cárdenes, JM Pozo, H Bogunovic, I Larrabide, AF Frangi* \
 IEEE transactions on medical imaging (2011) \
 [[Paper](https://doi.org/10.1109/TMI.2011.2157698)]
+
+**Automatic cerebral aneurysm detection in multimodal angiographic images** \
+*CM Hentschke, O Beuing, R Nickl, KD Tönnies* \
+IEEE nuclear science symposium conference record (2011) \
+[[Paper](https://doi.org/10.1109/NSSMIC.2011.6152566)]
+
+**Automatic localization and quantification of intracranial aneurysms** \
+*S Hassan, F Hétroy, F Faure, O Palombi* \
+International Conference on Computer Analysis of Images and Patterns (2011) \
+[[Paper](https://doi.org/10.1007/978-3-642-23672-3_67)]
 
 **Computer-aided detection of intracranial aneurysms in MR angiography** \
 *X Yang, DJ Blezek, LTE Cheng, WJ Ryan, DF Kallmes, BJ Erickson* \
@@ -439,6 +454,21 @@ Computational Intelligence and Neuroscience (2022) \
 MDPI Entropy (2022) \
 [[Paper](https://doi.org/10.3390/e24081062)]
 
+**Aneurysm pose estimation with deep learning** \
+*Y Assis, L Liao, F Pierre, R Anxionnat, E Kerrien* \
+Medical Image Computing and Computer Assisted Intervention – MICCAI (2023) \
+[[Paper](https://doi.org/10.1007/978-3-031-43895-0_51)]
+
+**Automated detection of intracranial aneurysms using skeleton-based 3D patches, semantic segmentation, and auxiliary classification for overcoming data imbalance in brain TOF-MRA** \
+*S Ham, J Seo, J Yun, YJ Bae, T Kim, L Sunwoo, S Yoo, SC Jung, JW Kim, N Kim* \
+Scientific Reports (2023) \
+[[Paper](https://doi.org/10.1038/s41598-023-38586-9)]
+
+**Dense, deep learning-based intracranial aneurysm detection on TOF MRI using two-stage regularized U-Net** \
+*F Claux, M Baudouin, C Bogey, A Rouchaud* \
+Journal of Neuroradiology (2023) \
+[[Paper](https://doi.org/10.1016/j.neurad.2022.03.005)]
+
 **Detection of intracranial aneurysms using multiphase CT angiography with a deep learning model** \
 *J Wang, J Sun, J Xu, S Lu, H Wang, C Huang, F Zhang, Y Yu, X Gao, M Wang, Y Wang, X Ruan, Y Pan* \
 Academic Radiology 30.11 (2023) \
@@ -466,35 +496,6 @@ The Visual Computer (2024) \
 [[Paper](https://doi.org/10.1007/s00371-024-03730-7)]
 
 
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
 
 ### 2D images
 **** \
