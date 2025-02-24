@@ -572,6 +572,16 @@ Biomedical Engineering/Biomedizinische Technik (2018) \
 2018 5th international conference on control, decision and information technologies (CoDIT) (2018) \
 [[Paper](https://doi.org/10.1109/CoDIT.2018.8394937)]
 
+**Saccular brain aneurysm detection and multiclassifier rupture prediction using digital subtraction and magnetic resonance angiograms** \
+*SM Anjum, KM Malik, H Soltanian-Zadeh, H Malik, G Malik* \
+Proceedings of the 2018 5th International Conference on Biomedical and Bioinformatics Engineering (2018) \
+[[Paper](https://doi.org/10.1145/3301879.3301899)]
+
+**Automatic detection of intracranial aneurysm from digital subtraction angiography with cascade networks** \
+*J Liao, H Duan, H Dai, Y Huang, L Liu, L Chen, L Zhou* \
+Proceedings of the 2nd International Conference on Artificial Intelligence and Pattern Recognition (2019) \
+[[Paper](https://doi.org/10.1145/3357254.3357258)]
+
 **Automatic detection of intracranial aneurysm using LBP and Fourier descriptor in angiographic images** \
 *I Rahmany, MEA Nemmala, N Khlifa, H Megdiche* \
 International journal of computer assisted radiology and surgery (2019) \
@@ -581,6 +591,26 @@ International journal of computer assisted radiology and surgery (2019) \
 *H Duan, Y Huang, L Liu, H Dai, L Chen, L Zhou* \
 Biomedical engineering online (2019) \
 [[Paper](https://doi.org/10.1186/s12938-019-0726-2)]
+
+**Automatic diagnosis based on spatial information fusion feature for intracranial aneurysm** \
+*Y Zeng, X Liu, N Xiao, Y Li, Y Jiang, J Feng, S Guo* \
+IEEE transactions on medical imaging (2019) \
+[[Paper](https://doi.org/10.1109/TMI.2019.2951439)]
+
+**Brain Aneurysm Extraction in MRI Images** \
+*RHA Rauf, NA Ghafar, NEA Khalid* \
+Proceedings of the 2019 8th International Conference on Software and Computer Applications (2019) \
+[[Paper](https://doi.org/10.1145/3316615.3316696)]
+
+**Convolutional neural networks for the detection and measurement of cerebral aneurysms on magnetic resonance angiography** \
+*JN Stember, P Chang, DM Stember, M Liu, J Grinband, CG Filippi, P Meyers, S Jambawalikar* \
+Journal of digital imaging (2019) \
+[[Paper](https://doi.org/10.1007/s10278-018-0162-z)]
+
+**Fully automated unruptured intracranial aneurysm detection and segmentation from digital subtraction angiography series using an end-to-end spatiotemporal deep neural network** \
+*H Jin, Y Yin, M Hu, G Yang, L Qin* \
+Medical imaging 2019: Image processing (2019) \
+[[Paper](https://doi.org/10.1117/12.2512623)]
 
 **Automatic radiomic feature extraction using deep learning for angiographic parametric imaging of intracranial aneurysms** \
 *AR Podgorsak, RA Rava, MMS Bhurwani, AR Chandra, JM Davies, AH Siddiqui, CN Ionita* \
@@ -602,37 +632,7 @@ International Journal of Computer Assisted Radiology and Surgery (2020) \
 2021 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2021) \
 [[Paper](https://doi.org/10.1109/BHI50953.2021.9508536)]
 
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
-
-**** \
-** \
-() \
-[[Paper]()]
+**A new deep neural segmentation network for cerebral aneurysms in 2D digital subtraction angiography** \
+*S Kashyap, H Bulu, A Jadhav, R Dholakia, AY Liu, H Rangwala, WR Patterson, M Moradi* \
+Medical Imaging 2022: Image-Guided Procedures, Robotic Interventions, and Modeling (2022) \
+[[Paper](https://doi.org/10.1117/12.2611205)]
