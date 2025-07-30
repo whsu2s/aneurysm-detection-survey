@@ -651,3 +651,9 @@ International Journal of Computer Assisted Radiology and Surgery (2020) \
 *S Kashyap, H Bulu, A Jadhav, R Dholakia, AY Liu, H Rangwala, WR Patterson, M Moradi* \
 Medical Imaging 2022: Image-Guided Procedures, Robotic Interventions, and Modeling (2022) \
 [[Paper](https://doi.org/10.1117/12.2611205)]
+
+**Focusing intracranial aneurysm lesion segmentation by graph mask2Former with local refinement in DSA images** \
+*Y Mo, Y Chen, Y Hu, J Xu, H Wang, L Dai, J Liu* \
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM) \
+[[Paper](https://doi.org/10.1109/BIBM58861.2023.10385276)]
+
