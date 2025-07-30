@@ -492,6 +492,11 @@ Journal of Neuroradiology (2023) \
 Academic Radiology 30.11 (2023) \
 [[Paper](https://doi.org/10.1016/j.acra.2022.12.043)]
 
+**FSTIF-UNet: a deep learning-based method towards automatic segmentation of intracranial aneurysms in un-reconstructed 3D-RA** \
+*J Zhang, Y Zhao, X Liu, J Jiang, Y Li* \
+IEEE Journal of Biomedical and Health Informatics (2023) \
+[[Paper](https://doi.org/10.1109/JBHI.2023.3278472)]
+
 **High-throughput 3dra segmentation of brain vasculature and aneurysms using deep learning** \
 *F Lin, Y Xia, S Song, N Ravikumar, AF Frangi* \
 Computer Methods and Programs in Biomedicine (2023) \
