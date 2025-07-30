@@ -503,6 +503,11 @@ Neuroinformatics (2023) \
 [[Paper](https://doi.org/10.1007/s12021-022-09597-0)]
 [[Code](https://github.com/connectomicslab/Aneurysm_Detection)]
 
+**A deep learning framework for intracranial aneurysms automatic segmentation and detection on magnetic resonance T1 images** \
+*J Qu, H Niu, Y Li, T Chen, F Peng, J Xia, X He, B Xu, X Chen, R Li, A Liu, X Zhang, C Li* \
+European Radiology (2024) \
+[[Paper](https://doi.org/10.1007/s00330-023-10295-x)]
+
 **A deep-learning model for intracranial aneurysm detection on CT angiography images in China: a stepwise, multicentre, early-stage clinical validation study** \
 *B Hu, Z Shi, L Lu, Z Miao, H Wang, Z Zhou, F Zhang, R Wang, X Luo, F Xu, S Li, X Fang, et al.* \
 The Lancet Digital Health (2024) \
@@ -514,6 +519,11 @@ The Lancet Digital Health (2024) \
 The Visual Computer (2024) \
 [[Paper](https://doi.org/10.1007/s00371-024-03730-7)]
 [[Code](https://github.com/jinxiaokuang/RWS-MT)]
+
+**Morphology and Texture-Guided Deep Neural Network for Intracranial Aneurysm Segmentation in 3D TOF-MRA** \
+*M Orouskhani, N Firoozeh, H Wang, Y Wang, H Shi, W Li, B Sun, J Zhang, X Li, H Zhao, M Mossa‑Basha, J‑N H, C Zhu* \
+Neuroinformatics (2024) \
+[[Paper](https://doi.org/10.1007/s12021-024-09683-5)]
 
 ### 2D images
 **Detection of cerebral aneurysms by using time based parametric color coded of cerebral angiogram** \
