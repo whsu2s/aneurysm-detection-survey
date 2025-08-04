@@ -652,8 +652,13 @@ International Journal of Computer Assisted Radiology and Surgery (2020) \
 Medical Imaging 2022: Image-Guided Procedures, Robotic Interventions, and Modeling (2022) \
 [[Paper](https://doi.org/10.1117/12.2611205)]
 
+**DeepInfusion: a dynamic infusion based-neuro-symbolic AI model for segmentation of intracranial aneurysms** \
+*I Abdullah, A Javed, KM Malik, G Malik* \
+Neurocomputing 551 (2023) \
+[[Paper](https://doi.org/10.1016/j.neucom.2023.126510)]
+
 **Focusing intracranial aneurysm lesion segmentation by graph mask2Former with local refinement in DSA images** \
 *Y Mo, Y Chen, Y Hu, J Xu, H Wang, L Dai, J Liu* \
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM) \
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (2023) \
 [[Paper](https://doi.org/10.1109/BIBM58861.2023.10385276)]
 
