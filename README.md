@@ -39,8 +39,18 @@ Journal of NeuroInterventional Surgery 15.3 (2023) \
 Biomedicines 11.11 (2023) \
 [[Paper](https://doi.org/10.3390/biomedicines11112921)]
 
-### 3D geometric data
+**Classification, detection, and segmentation performance of image-based AI in intracranial aneurysm: a systematic review** \
+*Z Zhou, Y Jin, H Ye, X Zhang, J Liu, W Zhang* \
+BMC Medical Imaging (2024) \
+[[Paper](https://doi.org/10.1186/s12880-024-01347-9)]
 
+**A survey of intracranial aneurysm detection and segmentation** \
+*WC Hsu, M Meuschke, AF Frangi, B Preim, K Lawonn* \
+Medical Image Analysis (2025) \
+[[Paper](https://doi.org/10.1016/j.media.2025.103493)]
+
+
+### 3D geometric data
 
 
 #### Surface mesh
